@@ -10,7 +10,20 @@
 
 ## 👋 About Me
 
-I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking interfaces. I work on frontend development, UI/UX and graphic design.
+🎓 CSE Student at JSPM University, Pune | 💻 Frontend Developer | 🎨 UI/UX & Graphic Designer
+
+Passionate about building visually appealing, user-friendly, and responsive digital experiences. I love turning creative ideas into functional web interfaces through clean code and thoughtful design.
+
+🚀 **What I Do:**
+- Frontend Development – Crafting responsive and interactive web experiences.
+- UI/UX Design – Designing intuitive, user-centric interfaces.
+- Graphic Design – Bringing ideas to life through creative visuals.
+
+💡 **My Strengths:** Creative Thinking • Quick Learning • Adaptability
+
+🌱 Always exploring new technologies, refining my skills, and building projects that combine creativity with technology.
+
+**"Design with creativity. Develop with purpose. Learn without limits."**
 
 ## 🛠 Tech Stack
 
