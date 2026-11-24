@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Kaivalya Markad - Frontend Developer, UI/UX, Graphic Design" width="100%"/>
+<img src="banner.svg" alt="Kaivalya Markad - Frontend Developer, UI/UX, Graphic Design" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+%26+Graphic+Design;CSE+Student;Building+clean+interfaces" alt="Typing intro" />
 
@@ -14,9 +14,7 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css&theme=dark" alt="Tech stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,tailwind&theme=dark" alt="Tech stack" />
 
 ## 🚀 Featured Projects
 
@@ -26,17 +24,10 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 | [Project Two](https://github.com/USERNAME/project-two) | One-line description | React |
 | [Project Three](https://github.com/USERNAME/project-three) | One-line description | HTML, CSS |
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=161412&title_color=D97757&icon_color=EBA48A&text_color=F0EBE3&border_color=3A342E" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&bg_color=161412&title_color=D97757&text_color=F0EBE3&border_color=3A342E" alt="Top languages" />
-</p>
-
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&logo=linkedin&logoColor=161412" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-211E1B?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-211E1B?style=for-the-badge&logo=googlechrome&logoColor=D97757" alt="Portfolio" /></a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+&nbsp;
+<a href="https://YOUR-PORTFOLIO-LINK">🌐 Portfolio</a>
