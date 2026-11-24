@@ -25,7 +25,7 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/in/https://www.instagram.com/kaivalya010?igsh=NGF2MHJ1ZjgxNWNj"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+<a href="mailto:kaiwalya615@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 &nbsp;
