@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-🎓 CSE Student at JSPM University, Pune | 💻 Frontend Developer | 🎨 UI/UX & Graphic Designer
+🎓 CSE Student | 💻 Frontend Developer | 🎨 UI/UX & Graphic Designer
 
 Passionate about building visually appealing, user-friendly, and responsive digital experiences. I love turning creative ideas into functional web interfaces through clean code and thoughtful design.
 
