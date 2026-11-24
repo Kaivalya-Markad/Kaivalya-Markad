@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Profile/banner.svg" alt="Kaivalya Markad - Frontend Developer, UI/UX, Graphic Design" width="160%"/>
+<img src="Profile/banner.svg" alt="Kaivalya Markad - Frontend Developer, UI/UX, Graphic Design" width="200%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+%26+Graphic+Design;CSE+Student;Building+clean+interfaces" alt="Typing intro" />
 
