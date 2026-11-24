@@ -20,9 +20,8 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/USERNAME/project-one) | One-line description | JavaScript |
-| [Project Two](https://github.com/USERNAME/project-two) | One-line description | React |
-| [Project Three](https://github.com/USERNAME/project-three) | One-line description | HTML, CSS |
+| [Amazon-Frontend-Clone](https://az-frontend-clone.netlify.app/) | A frontend clone of Amazon using html, css and JS | HTML, CSS, JS |
+| [Web-Countdown](https://web-countdownkvm.netlify.app/) | JavaSript based countdown on website | Javascript |
 
 ## 📫 Connect With Me
 
@@ -30,4 +29,3 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 &nbsp;
 <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 &nbsp;
-<a href="https://YOUR-PORTFOLIO-LINK">🌐 Portfolio</a>
