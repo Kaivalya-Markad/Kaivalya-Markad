@@ -33,7 +33,7 @@ Passionate about building visually appealing, user-friendly, and responsive digi
 
 | Project | Description | Tech |
 |---|---|---|
-| [Amazon-Frontend-Clone](https://az-frontend-clone.netlify.app/) | A frontend clone of Amazon using html, css and JS | HTML, CSS, JS |
+| [Amazon-Frontend-Clone](https://az-frontend-clone.netlify.app/) | A frontend clone of Amazon using HTML, CSS and JS | HTML, CSS, JS |
 | [Web-Countdown](https://web-countdownkvm.netlify.app/) | JavaSript based countdown on website | Javascript |
 | [Portfolio-Site](https://kaivalya-dev-portfolio.netlify.app/) | Personalized Portfolio website | HTML, CSS, Javascript |
 ## 📫 Connect With Me
