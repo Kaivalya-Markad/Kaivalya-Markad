@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Kaivalya Markad - Frontend Developer, UI/UX, Graphic Design. A small animated bot waves hello.">
+<style>
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.wave{transform-box:fill-box;transform-origin:0% 50%;animation:wave 1.4s ease-in-out infinite}
+@keyframes wave{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(-50deg)}}
+.eye{transform-box:fill-box;transform-origin:center;animation:blink 4s infinite}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+.ant{animation:pulse 1.2s ease-in-out infinite}
+.cur{animation:pulse 1s steps(2,start) infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+.shadow{transform-box:fill-box;transform-origin:center;animation:sh 3s ease-in-out infinite}
+@keyframes sh{0%,100%{transform:scaleX(1)}50%{transform:scaleX(.8)}}
+.fl1{animation:fl 4s ease-in-out infinite}
+.fl2{animation:fl 5s ease-in-out infinite reverse}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.bub{transform-box:fill-box;transform-origin:left center;animation:pop 4s ease-in-out infinite}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.04)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<rect width="1200" height="400" fill="#161412"/>
+<text x="64" y="108" font-size="13" letter-spacing="3" fill="#EBA48A">GITHUB PROFILE</text>
+<text x="64" y="172" font-size="52" font-weight="700" fill="#F0EBE3">Kaivalya Markad</text>
+<text x="64" y="214" font-size="20" fill="#B3A99C">Frontend Developer · UI/UX · Graphic Design</text>
+<g font-size="14" fill="#F0EBE3" text-anchor="middle" stroke-width="1">
+<rect x="64" y="242" width="62" height="32" rx="16" fill="#26221E" stroke="#3A342E"/><text x="95" y="263" stroke="none">HTML</text>
+<rect x="134" y="242" width="56" height="32" rx="16" fill="#26221E" stroke="#3A342E"/><text x="162" y="263" stroke="none">CSS</text>
+<rect x="198" y="242" width="98" height="32" rx="16" fill="#26221E" stroke="#3A342E"/><text x="247" y="263" stroke="none">JavaScript</text>
+<rect x="304" y="242" width="66" height="32" rx="16" fill="#26221E" stroke="#3A342E"/><text x="337" y="263" stroke="none">React</text>
+<rect x="378" y="242" width="74"
