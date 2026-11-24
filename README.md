@@ -14,7 +14,7 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,tailwind&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,react,javascript,bootstrap,tailwind,html,css&theme=dark" alt="Tech stack" />
 
 ## 🚀 Featured Projects
 
