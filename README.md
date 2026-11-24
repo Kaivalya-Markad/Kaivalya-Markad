@@ -22,7 +22,7 @@ I'm **Kaivalya Markad**, a CSE student who loves building clean, good-looking in
 |---|---|---|
 | [Amazon-Frontend-Clone](https://az-frontend-clone.netlify.app/) | A frontend clone of Amazon using html, css and JS | HTML, CSS, JS |
 | [Web-Countdown](https://web-countdownkvm.netlify.app/) | JavaSript based countdown on website | Javascript |
-
+| [Portfolio-Site](https://kaivalya-dev-portfolio.netlify.app/) | Personalized Portfolio website | HTML, CSS, Javascript |
 ## 📫 Connect With Me
 
 <a href="https://www.instagram.com/in/https://www.instagram.com/kaivalya010?igsh=NGF2MHJ1ZjgxNWNj"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="LinkedIn" /></a>
